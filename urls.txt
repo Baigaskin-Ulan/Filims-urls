@@ -1,15 +1,15 @@
-kinopoisk.ru
-ivi.ru
-kinopoisk.ru
-megogo.net
-kino.mail.ru
-film.ru
-ivi.ru
-kinogo.biz
-start.ru
-kino-teatr.ru
-tvigle.ru
-ctc.ru
-afisha.ru
-culture.ru
-1tv.ru
+0.0.0.0 kinopoisk.ru
+0.0.0.0 ivi.ru
+0.0.0.0 kinopoisk.ru
+0.0.0.0 megogo.net
+0.0.0.0 kino.mail.ru
+0.0.0.0 film.ru
+0.0.0.0 ivi.ru
+0.0.0.0 kinogo.biz
+0.0.0.0 start.ru
+0.0.0.0 kino-teatr.ru
+0.0.0.0 tvigle.ru
+0.0.0.0 ctc.ru
+0.0.0.0 afisha.ru
+0.0.0.0 culture.ru
+0.0.0.0 1tv.ru
